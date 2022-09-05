@@ -4,7 +4,7 @@
 
 The course material for Machine Learning.
 
-# Table of Contents
+# The lab material for the Machine Learning course.
 
 1. [Lab Introduction](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab%20Introduction)
 2. Preliminary

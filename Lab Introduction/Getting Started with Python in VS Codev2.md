@@ -32,15 +32,15 @@ In this section, we’ll discuss how to download and install the VS Code on Wind
 
 > **Note**:- Visual Studio Code is also available for other operating systems like MacOS and Linux (Ubuntu, Debian, Red Hate, Fedora).
 
-![4.download_the_windows_version](.\image\4.download_the_windows_version.png)
+![4.download_the_windows_version](image\4.download_the_windows_version.png)
 
 **Step 2**: After you have downloaded the installer file open it and *accept the licence agreement* then click on “*Next*“.
 
-![5.Install Visual Studio Code - Accept Aggreement](.\image\5.Install Visual Studio Code - Accept Aggreement.png)
+![5.Install Visual Studio Code - Accept Aggreement](image\5.Install Visual Studio Code - Accept Aggreement.png)
 
 **Step 3**: Now select your installation location, where you want to install Visual Studio Code. If you don’t have any good reason to change the installation location then keep it to default.
 
-![6.Select installation location](.\image\6.Select installation location.png)
+![6.Select installation location](image\6.Select installation location.png)
 
 **Step 4**: After that select Start Menu Folder and add some additional tasks, “*create a desktop icon*” and “*Add to Path*“.
 
@@ -56,7 +56,7 @@ It will take some time to install so wait until the installation completed. Afte
 
 **Step 6**: After it is completed, click the "Finish" button.
 
-![installing-vs-code-in-windows-installation-completed](.\image\installing-vs-code-in-windows-installation-completed.png)
+![installing-vs-code-in-windows-installation-completed](image\installing-vs-code-in-windows-installation-completed.png)
 
 **Step 7**: If we left the "*Launch Visual Studio Code*" checkbox selected, the VS Code will run and will look something like this.
 
@@ -128,7 +128,7 @@ To install extensions from within Visual Studio Code:
 2. Select the extension, review its Details, contributions, changelog and more.
 3. Finally when you’re ready to install the extension click on the “**Install **”button.
 
-![9.How to add extension in Visual Studio Code](.\image\9.How to add extension in Visual Studio Code.png)
+![9.How to add extension in Visual Studio Code](image\9.How to add extension in Visual Studio Code.png)
 
 **After installation complete reopen the Visual Studio Code.**
 
