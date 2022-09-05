@@ -31,8 +31,12 @@ In this section, we’ll discuss how to download and install the VS Code on Wind
 **Step 1**: First of all, we need to download the installer file for Windows operating system. For that visit [https://code.visualstudio.com/Download](https://code.visualstudio.com/Download) and download the windows version of Visual Studio Code
 
 > **Note**:- Visual Studio Code is also available for other operating systems like MacOS and Linux (Ubuntu, Debian, Red Hate, Fedora).
+>
+> 
 
 ![4.download_the_windows_version](image/4.download_the_windows_version.png)
+
+
 
 **Step 2**: After you have downloaded the installer file open it and *accept the licence agreement* then click on “*Next*“.
 
@@ -377,3 +381,4 @@ pip install some-package
 ![plot-output](image/plot-output.png)
 
 A best practice among Python developers is to avoid installing packages into a global interpreter environment. You instead use a project-specific `virtual environment` that contains a copy of a global interpreter. Once you activate that environment, any packages you then install are isolated from other environments. Such isolation reduces many complications that can arise from conflicting package versions.  `conda` is recommended for managing the environments.
+

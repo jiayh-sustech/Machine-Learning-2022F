@@ -1,4 +1,4 @@
-# Lab Introduction
+# Lab1 materials
 
 
 1. [Getting Started with Python in VS Codev2](https://github.com/jiayh-sustech/Machine-Learning-2022F/blob/main/Lab1.Introduction/Getting%20Started%20with%20Python%20in%20VS%20Codev2.md)
