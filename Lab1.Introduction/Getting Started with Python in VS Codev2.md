@@ -36,31 +36,31 @@ In this section, we’ll discuss how to download and install the VS Code on Wind
 
 **Step 2**: After you have downloaded the installer file open it and *accept the licence agreement* then click on “*Next*“.
 
-![5.Install Visual Studio Code - Accept Aggreement](image\5.Install Visual Studio Code - Accept Aggreement.png)
+![5.Install Visual Studio Code - Accept Aggreement](image/5.Install Visual Studio Code - Accept Aggreement.png)
 
 **Step 3**: Now select your installation location, where you want to install Visual Studio Code. If you don’t have any good reason to change the installation location then keep it to default.
 
-![6.Select installation location](image\6.Select installation location.png)
+![6.Select installation location](image/6.Select installation location.png)
 
 **Step 4**: After that select Start Menu Folder and add some additional tasks, “*create a desktop icon*” and “*Add to Path*“.
 
 > **Note:**– It is very important to add Visual Studio Code to PATH.
 
-![7.Add Visual Studio Code to PATH](image\7.Add Visual Studio Code to PATH.png)
+![7.Add Visual Studio Code to PATH](image/7.Add Visual Studio Code to PATH.png)
 
 **Step 5**: Finally you are ready to install the VS Code on Windows 10. Just review all your selections then click on “Install”.
 
-![8.Ready to install VS Code](image\8.Ready to install VS Code.png)
+![8.Ready to install VS Code](image/8.Ready to install VS Code.png)
 
 It will take some time to install so wait until the installation completed. After that, you’re ready to use to Visual Studio Code.
 
 **Step 6**: After it is completed, click the "Finish" button.
 
-![installing-vs-code-in-windows-installation-completed](image\installing-vs-code-in-windows-installation-completed.png)
+![installing-vs-code-in-windows-installation-completed](image/installing-vs-code-in-windows-installation-completed.png)
 
 **Step 7**: If we left the "*Launch Visual Studio Code*" checkbox selected, the VS Code will run and will look something like this.
 
-![Installing VS Code - first run of Visual Studio Code](image\Installing VS Code - first run of Visual Studio Code.png)
+![Installing VS Code - first run of Visual Studio Code](image/Installing VS Code - first run of Visual Studio Code.png)
 
 As shown above, we can open or create new files in VS Code, as well as open folders and clone Git repositories.
 
@@ -70,24 +70,24 @@ Follow the below steps*(shown in gif file and mentioned in bullet points)* to in
 
 1. Download Visual Studio Code for macOS.
 
-   ![4.download_the_macos_version](image\4.download_the_macos_version.png)
+   ![4.download_the_macos_version](image/4.download_the_macos_version.png)
 2. After clicking on the Mac option on the download site, it will download a zip file .
 3. **Double-click** on the downloaded zip to expand the contents. It will give a file, as shown below:
 4. *Drag **"Visual Studio Code.app"** to the **"Applications"** folder, so as it available in the **"Launchpad."***
 5. *Double click on the **"Visual Studio Code"** to open.*
 6. *Add VS Code to your Dock by right-clicking on the icon to bring up the context menu and choosing **Options => Keep in Dock.***
 
-![Install Visual Studio Code- Adding VSCode to Dock](image\3.Install Visual Studio Code- Adding VSCode to Dock-macos.png)
+![Install Visual Studio Code- Adding VSCode to Dock](image/3.Install Visual Studio Code- Adding VSCode to Dock-macos.png)
 
 #### **Install Visual Studio Code on ubuntu**
 
 **Step 1**: Download Visual Studio Code for ubuntu.
 
-![4.download_the_ubuntu_version](image\4.download_the_ubuntu_version.png)
+![4.download_the_ubuntu_version](image/4.download_the_ubuntu_version.png)
 
 **Step 2**:  After clicking on the `.deb` option on the download site, it will download a `.deb` file .
 
-![5.download_the_ubuntu_deb_file](image\5.download_the_ubuntu_deb_file_v2.png)
+![5.download_the_ubuntu_deb_file](image/5.download_the_ubuntu_deb_file_v2.png)
 
 **Step 3**: Go to the directory where the `code_1.66.0-1648620611_amd64.deb` is located, open the **terminal** and type the following command to kickstart the installation process.
 
@@ -114,7 +114,7 @@ root@jyhs:~/vscode#
 
 **Step 4**: Now that VS Code is installed on your Ubuntu system you can launch it either from the command line by typing `code` or by clicking on the VS Code icon (`Activities -> Visual Studio Code`).
 
-![6.launch the vscode for ubuntu](image\6.launch the vscode for ubuntu.png)
+![6.launch the vscode for ubuntu](image/6.launch the vscode for ubuntu.png)
 
 When you start VS Code for the first time, a window like the following should appear:
 
@@ -128,7 +128,7 @@ To install extensions from within Visual Studio Code:
 2. Select the extension, review its Details, contributions, changelog and more.
 3. Finally when you’re ready to install the extension click on the “**Install **”button.
 
-![9.How to add extension in Visual Studio Code](image\9.How to add extension in Visual Studio Code.png)
+![9.How to add extension in Visual Studio Code](image/9.How to add extension in Visual Studio Code.png)
 
 **After installation complete reopen the Visual Studio Code.**
 
@@ -148,25 +148,25 @@ For additional information about using Python on Windows, see [Using Python on W
 
 1. Click on the following link to download the Python for Windows [Download Python for Windows 10](https://www.python.org/downloads/windows/), and you can select any one of the following, as shown in the below image. I chose the Windows `Python3.9.13` executable installer for the installation.
 
-![download Python for Windows 10](image\download Python for Windows 10.gif)
+![download Python for Windows 10](image/download Python for Windows 10.gif)
 
 #### 2. Install Python 3.9 on Windows 10
 
 1. After completing the download, run the executable to start the installation for Python 3.7 on Windows 10. The first installation screen will display as shown in the below image. Select the check-boxes for install launcher for all users and Add Python 3.7 to PATH and click on the **Customize installation** option.
 
-![step-1 installing Python on Windows 10](image\step1-python-3.7-install-on-windows10.jpg)
+![step-1 installing Python on Windows 10](image/step1-python-3.7-install-on-windows10.jpg)
 
 1. The installation customization screen will appear, as shown in below image. You can select all options and then Click on the Next button.
 
-![Customize Python 3.7 installation](image\customizie-python-3.7-install-on-windows10.jpg)
+![Customize Python 3.7 installation](image/customizie-python-3.7-install-on-windows10.jpg)
 
 1. Specify the location of installation for Python, and select the check-boxes as per your need. Then click on the Install button.
 
-![specify installation folder for Python](image\specify installation folder for Python.jpg)
+![specify installation folder for Python](image/specify installation folder for Python.jpg)
 
 1. The installation will be complete, and it will show the successful installation screen, as shown in the below image.
 
-![Successful Python installation screen](image\Successful Python installation screen.jpg)
+![Successful Python installation screen](image/Successful Python installation screen.jpg)
 
 ### macOS
 
@@ -184,7 +184,7 @@ The built-in Python 3 installation on Linux works well, but to install other Pyt
 
 If you do not have the extra time and disk space required to install the more than 720 packages on the Anaconda distribution (Note that you will not need most of the packages), you can choose to [install Miniconda](Install Miniconda on Win10.md).
 
-![MinicondavsAnaconda](image\MinicondavsAnaconda.jpg)
+![MinicondavsAnaconda](image/MinicondavsAnaconda.jpg)
 
 ## Verify the Python installation
 
@@ -355,7 +355,7 @@ Unless you're using an Anaconda distribution or have previously installed the `m
 
 1. To install the `matplotlib` package (which also installs `numpy` as a dependency), stop the debugger and use the Command Palette to run **Terminal: Create New Terminal** (Ctrl+Shift+`). This command opens a command prompt for your selected interpreter.
 
-![new Terminal](image\new Terminal.jpg)
+![new Terminal](image/new Terminal.jpg)
 
 2. Enter the following command on the terminal.
 
@@ -363,7 +363,7 @@ Unless you're using an Anaconda distribution or have previously installed the `m
    pip install -i https://pypi.tuna.tsinghua.edu.cn/simple some-package
    ```
 
-   ![pip matplotlib](image\pip matplotlib.jpg)
+   ![pip matplotlib](image/pip matplotlib.jpg)
 
 or
 
@@ -374,6 +374,6 @@ pip install some-package
 
 3. Rerun the program now (with or without the debugger) and after a few moments a plot window appears with the output:
 
-![plot-output](image\plot-output.png)
+![plot-output](image/plot-output.png)
 
 A best practice among Python developers is to avoid installing packages into a global interpreter environment. You instead use a project-specific `virtual environment` that contains a copy of a global interpreter. Once you activate that environment, any packages you then install are isolated from other environments. Such isolation reduces many complications that can arise from conflicting package versions.  `conda` is recommended for managing the environments.
