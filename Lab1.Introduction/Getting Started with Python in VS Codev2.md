@@ -32,7 +32,7 @@ In this section, we’ll discuss how to download and install the VS Code on Wind
 
 > **Note**:- Visual Studio Code is also available for other operating systems like MacOS and Linux (Ubuntu, Debian, Red Hate, Fedora).
 
-![4.download_the_windows_version](image\4.download_the_windows_version.png)
+![4.download_the_windows_version](image/4.download_the_windows_version.png)
 
 **Step 2**: After you have downloaded the installer file open it and *accept the licence agreement* then click on “*Next*“.
 
