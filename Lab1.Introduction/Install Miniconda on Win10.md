@@ -6,7 +6,7 @@
 
 去官网[https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html ) 下载：
 
-![miniconda_windows_installer](image\miniconda_windows_installer.png)
+![miniconda_windows_installer](image/miniconda_windows_installer.png)
 
 
 
@@ -14,7 +14,7 @@
 
 [https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/](https://links.jianshu.com/go?to=https%3A%2F%2Fmirrors.tuna.tsinghua.edu.cn%2Fanaconda%2Fminiconda%2F)
 
-![minconda_install](image\minconda_install.png)
+![minconda_install](image/minconda_install.png)
 
 
 
@@ -22,27 +22,27 @@
 
 1.运行安装包，点击Next；
 
-![img](image\minconda_install_1.png)
+![img](image/minconda_install_1.png)
 
 2.点击 I Agree
 
-![img](image\minconda_install_2.png)
+![img](image/minconda_install_2.png)
 
 3.点击Next；
 
-![img](image\minconda_install_3.png)
+![img](image/minconda_install_3.png)
 
 4.选择安装路径，点击Next；
 
-![img](image\minconda_install_4.png)
+![img](image/minconda_install_4.png)
 
 5.选择添加环境变量，点击Install；
 
-![img](E:\2022FALL\CS405\ML2022F\LAB\LAB1\image\minconda_install_5_.png)
+![img](image/minconda_install_5_.png)
 
 6.点击Next；
 
-![img](image\minconda_install_7.png)
+![img](image/minconda_install_7.png)
 
 7.安装完成。
 
