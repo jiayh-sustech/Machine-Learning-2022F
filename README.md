@@ -1,10 +1,10 @@
-<img src="image/icon.png?raw=true" align="right" width="500" alt="header pic"/>
+<img src="image/icon.png?raw=true" align="right" width="300" alt="header pic"/>
 
 # Machine Learning
 
 The course material for Machine Learning.
 
-# The lab material for the Machine Learning course.
+# The lab material 
 
 1. [Lab Introduction](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab1.Introduction)
 2. [Preliminary](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab2.Preliminary)
