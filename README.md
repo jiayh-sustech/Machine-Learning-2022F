@@ -12,16 +12,17 @@ The course material for Machine Learning.
 4. [Linear Regression](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab4.Linear%20Regression)
 5. [Decision Tree & Random Forest](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab5.Decision%20Tree%20%26%20Random%20Forest)
 6. [Linear Discriminant Analysis](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab6.Linear%20Discriminant%20Analysis)
-7. Neural Network
-8. Detection and tracking *
-9. SVM
-10. K-mean
-11. EM clustering
-12. Hidden Markov Model
-13. Grape Model *
-14. Markov Decision Process (MDP)
-15. Reinforcement Learning *
-16. Final Project
+7. [Neural Network](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab7.Neural%20network)
+8. CNN
+9. Detection and tracking *
+10. SVM
+11. K-mean
+12. EM clustering
+13. Hidden Markov Model
+14. Grape Model *
+15. Markov Decision Process (MDP)
+16. Reinforcement Learning *
+17. Final Project
 
 # Authors
 
