@@ -1,4 +1,4 @@
-<img src="image/icon.png?raw=true" align="right" width="300" alt="header pic"/>
+<img src="image/icon.png?raw=true" align="right" width="500" alt="header pic"/>
 
 # Machine Learning
 
