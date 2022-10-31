@@ -1,5 +1,13 @@
 <img src="image/icon.png?raw=true" align="right" width="500" alt="header pic"/>
 
+<font color=red>图灵班同学请移步到cs329分支</font>：
+
+```bash
+git checkout cs329
+```
+
+
+
 # Machine Learning
 
 The course material for Machine Learning.
