@@ -19,10 +19,9 @@ The course material for Machine Learning.
 11. K-mean
 12. EM clustering
 13. Hidden Markov Model
-14. Grape Model *
-15. Markov Decision Process (MDP)
-16. Reinforcement Learning *
-17. Final Project
+14. Markov Decision Process (MDP)
+15. Reinforcement Learning *
+16. Final Project
 
 # Authors
 
