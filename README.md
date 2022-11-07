@@ -8,6 +8,7 @@ git checkout cs329
 ```
 
 Machine Learning
+================
 
 The course material for Machine Learning.
 
