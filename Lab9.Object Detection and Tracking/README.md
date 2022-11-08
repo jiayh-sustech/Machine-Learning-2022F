@@ -92,7 +92,7 @@ Probably if you are just a developer, you would not even care about the controve
 
 ### **YOLOv5 Architecture**
 
-`<img src="images/ngcb1.webp" alt="YOLOv5 Architecture " style="zoom:100%;" />`([Source](https://www.researchgate.net/publication/349299852_A_Forest_Fire_Detection_System_Based_on_Ensemble_Learning))
+<img src="images/ngcb1.webp" alt="YOLOv5 Architecture " width="800" />
 
 The YOLO family of models consists of three main architectural blocks i) Backbone, ii) Neck and iii) Head.
 
