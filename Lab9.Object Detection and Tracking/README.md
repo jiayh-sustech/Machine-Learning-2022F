@@ -55,7 +55,7 @@ Most important one-stage object detection algorithms
 - YOLOv7 (2022)
 
 
-<div  align="center"><img src="images/machine-learning-infographic.png"  style="zoom:20%"/></div>
+<div  align="center"><img src="images/machine-learning-infographic.png"  width="400"/></div>
 
 
 Two-stage methods achieve the highest detection accuracy but are typically slower. Because of the many inference steps per image, the performance (frames per second) is not as good as one-stage detectors.
