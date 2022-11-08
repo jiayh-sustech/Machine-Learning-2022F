@@ -14,13 +14,13 @@
 ## Preface
 
 There are a lot many interesting problems in the Image domain.
-![img](images/1J1qpG6TUYsq43whAqezjyg.png)
+<img src="images/1J1qpG6TUYsq43whAqezjyg.png" alt="img " width="800" />
 
 In this lab, we focus on Object Detection.
 
 Object Detection is a Computer Vision task to detect and localize objects in images and video,   it is one of the fundamental problems of computer vision.
 
-<img src="images/1OHlBv6CJfJen_18EFWWNmQ.gif" alt="img " style="zoom:150%;" />
+<img src="images/1OHlBv6CJfJen_18EFWWNmQ.gif" alt="img " width="800" />
 
 Object Detection is used almost everywhere these days. The use cases are endless, be it Tracking objects, Video surveillance, Pedestrian detection, Anomaly detection, People Counting, Self-driving cars or Face detection, the list goes on.
 
@@ -111,7 +111,7 @@ Apart from this YOLOv5 uses the below choices for training –
 
 YOLOv5 has multiple varieties of pre-trained models as we can see above. The difference between them is the trade-off between the size of the model and inference time. The lightweight model version YOLOv5s is just 14MB but not very accurate. On the other side of the spectrum, we have YOLOv5x whose size is 168MB but is the most accurate version of its family.
 
-![Comparison Graph](images/ngcb1-166772745676840.png)
+<img src="images/ngcb1-166772745676840.png" alt="Comparison Graph " width="800" />
 
 ## YOLOv5 Tutorial for Object Detection
 
@@ -152,7 +152,7 @@ If this is not possible, you can start from [a public dataset](https://universe.
 
 Once you have collected images, you will need to annotate the objects of interest to create a ground truth for your model to learn from.
 
-![img](images/image1.gif)
+<img src="images/image1.gif" alt="img " width="800" />
 
 [Roboflow Annotate](https://roboflow.com/annotate?ref=ultralytics) is a simple web-based tool for managing and labeling your images with your team and exporting them in [YOLOv5&#39;s annotation format](https://roboflow.com/formats/yolov5-pytorch-txt?ref=ultralytics).
 
@@ -214,7 +214,7 @@ After using a tool like [Roboflow Annotate](https://roboflow.com/annotate?ref=ul
 - Box coordinates must be in **normalized xywh** format (from 0 - 1). If your boxes are in pixels, divide `x_center` and `width` by image width, and `y_center` and `height` by image height.
 - Class numbers are zero-indexed (start from 0).
 
-![img](images/91506361-c7965000-e886-11ea-8291-c72b98c25eec.jpg)
+<img src="images/91506361-c7965000-e886-11ea-8291-c72b98c25eec.jpg" alt="img " width="900" />
 
 The label file corresponding to the above image contains 2 persons (class `0`) and a tie (class `27`):
 
