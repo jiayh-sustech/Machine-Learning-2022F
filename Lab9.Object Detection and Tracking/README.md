@@ -74,7 +74,7 @@ We will understand what is YOLOv5 and show you how to use YOLOv5 for object dete
 
 YOLO stands for You Look Only Once and it is one of the finest family of object detection models with state-of-the-art performances.
 
-<img src="images/yologo_1-166770306879111.png" alt="img " style="zoom:30%;" />
+<img src="images/yologo_1-166770306879111.png" alt="img " width="400" />
 
 Its first model was released in 2016 by `<big>`Joseph Redmon `</big>` who went on to publish  `<big>`YOLOv2 (2017) and YOLOv3 (2018)`</big>`. In 2020 Joseph Redmon stepped out from the project citing ethical issues in the computer vision field and his work was further improved by  `<big>`Alexey Bochkovskiy `</big>` who produced YOLOv4 in 2020.
 
