@@ -33,7 +33,7 @@ Structure of this lab code:
 - `detector.py`: load and write videos
 - `slidingwindow.py`: sliding window
 
-## Install some libraries
+## Install libraries
 
 This project uses other Python packages such as `OpenCV`,` scikit-image`. They should be correctly installed. For Anaconda user, here are the tips:
 
@@ -50,6 +50,15 @@ pip install  scikit-image
 ```
 
 These packages are used to load data and extract features by HOG, you just need to use these features to train you SVM. Than you can use your classifier to detect vehicles in a test video which uses a sliding window method.
+
+## Training datasets and test videos
+
+We provide training datasets and test videos . Please download the from the following link:
+
+> 链接：https://pan.baidu.com/s/1hNBQcwdkT4oqTjspGaabFA
+> 提取码：csml
+
+After downloading, unzip the samples.zip and videos.zip to the `Lab10.Assignment` folder.
 
 ## Feature Extraction by HOG
 
@@ -93,7 +102,7 @@ svc.fit(X_train, y_train)
 - `penalty`: norm of penalization, like L1 and L2
 - `loss`: loss function, including hinge and squared_hinge
 
-## IV. Sliding Window & Heat Map
+## Sliding Window & Heat Map
 
 ### Sliding window
 
