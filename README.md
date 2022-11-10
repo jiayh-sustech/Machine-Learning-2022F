@@ -20,7 +20,7 @@ The course material for Machine Learning.
 7. [Neural Network](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab7.Neural%20network)
 8. [Convolutional Neural Network](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab8.Convolutional%20Neural%20Network)
 9. [Object Detection and Tracking](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab9.Object%20Detection%20and%20Tracking)
-10. SVM
+10. [SVM](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab10.SVM)
 11. K-mean
 12. EM clustering
 13. Hidden Markov Model
