@@ -14,7 +14,7 @@ The course material for Machine Learning.
 
 # The lab material
 
-1. [Lab Introduction](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab1.Introduction)
+1. [Lab Introduction](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab01.Introduction)
 2. [Preliminary](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab2.Preliminary)
 3. [Naïve-Bayes](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab3.Na%C3%AFve-Bayes)
 4. [Linear Regression](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab4.Linear%20Regression)
