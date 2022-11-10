@@ -20,7 +20,7 @@ The course material for Machine Learning.
 4. [Linear Regression](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab04.Linear%20Regression)
 5. [Decision Tree &amp; Random Forest](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab05.Decision%20Tree%20%26%20Random%20Forest)
 6. [Linear Discriminant Analysis](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab06.Linear%20Discriminant%20Analysis)
-7. [Neural Network]https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/cs329/Lab07.Neural%20network)
+7. [Neural Network](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/cs329/Lab07.Neural%20network)
 8. [Convolutional Neural Network](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/cs329/Lab08.Convolutional%20Neural%20Network)
 9. [Detection and tracking](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/cs329/Lab09.Object%20Detection%20and%20Tracking)
 10. [SVM](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/cs329/Lab10.SVM)
