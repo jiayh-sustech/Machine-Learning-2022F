@@ -15,16 +15,15 @@ The course material for Machine Learning.
 # The lab material
 
 1. [Lab Introduction](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab01.Introduction)
-2. [Preliminary](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab2.Preliminary)
-3. [Naïve-Bayes](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab3.Na%C3%AFve-Bayes)
-4. [Linear Regression](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab4.Linear%20Regression)
-5. [Decision Tree &amp; Random Forest](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab5.Decision%20Tree%20%26%20Random%20Forest)
-6. [Linear Discriminant Analysis](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab6.Linear%20Discriminant%20Analysis)
-7. [Neural Network](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab7.Neural%20network)
-8. [Convolutional Neural Network](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab8.Convolutional%20Neural%20Network)
-9. [Detection and tracking](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/cs329/Lab9.Object%20Detection%20and%20Tracking)
+2. [Preliminary](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab02.Preliminary)
+3. [Naïve-Bayes](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab03.Na%C3%AFve-Bayes)
+4. [Linear Regression](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab04.Linear%20Regression)
+5. [Decision Tree &amp; Random Forest](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab05.Decision%20Tree%20%26%20Random%20Forest)
+6. [Linear Discriminant Analysis](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab06.Linear%20Discriminant%20Analysis)
+7. [Neural Network](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab07.Neural%20network)
+8. [Convolutional Neural Network](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab08.Convolutional%20Neural%20Network)
+9. [Detection and tracking](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/cs329/Lab09.Object%20Detection%20and%20Tracking)
 10. [SVM](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab10.SVM)
-
 11. K-mean
 12. EM clustering
 13. Hidden Markov Model
