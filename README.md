@@ -22,7 +22,7 @@ The course material for Machine Learning.
 9. [Object Detection and Tracking](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab09.Object%20Detection%20and%20Tracking)
 10. [SVM](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab10.SVM)
 11. [K-means clustering](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab12.GMM%20clustering)
-12. GMM clustering
+12. [GMM clustering](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab12.GMM%20clustering)
 13. Hidden Markov Model
 14. Markov Decision Process (MDP)
 15. Reinforcement Learning *
