@@ -23,9 +23,9 @@ The course material for Machine Learning.
 10. [SVM](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab10.SVM)
 11. [K-means clustering](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab12.GMM%20clustering)
 12. [GMM clustering](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab12.GMM%20clustering)
-13. Hidden Markov Model
-14. Markov Decision Process (MDP)
-15. Reinforcement Learning *
+13. [Markov Decision Process (MDP)](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab13.Markov%20Decision%20Process)
+14. [Q-Learning](https://github.com/jiayh-sustech/Machine-Learning-2022F/tree/main/Lab14.Q_Learning) 
+15. Final Project
 16. Final Project
 
 # Authors
